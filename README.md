@@ -5,7 +5,7 @@
 Aplicativo Android desenvolvido em **Kotlin** utilizando **Jetpack Compose**.
 O projeto apresenta um cartão de perfil profissional em uma única tela, contendo foto, apresentação, nome, profissão e informações de contato.
 
-## Tecnologias Utilizadas 
+## Tecnologias utilizadas 
 
 - Kotlin
 - Android Studio
