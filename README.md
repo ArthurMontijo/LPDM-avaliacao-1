@@ -7,11 +7,11 @@ O projeto apresenta um cartão de perfil profissional em uma única tela, conten
 
 ## Tecnologias utilizadas
 
-* Kotlin
-* Android Studio
-* Jetpack Compose
-* Material Design
-* Material Icons
+- Kotlin
+- Android Studio
+- Jetpack Compose
+- Material Design
+- Material Icons
 
 ## Funcionalidades
 
